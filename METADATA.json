@@ -1,0 +1,24 @@
+{
+  "name": "Lohit Devanagari",
+  "designer": "Multiple Designers",
+  "license": "",
+  "visibility": "Sandbox",
+  "category": "monospace",
+  "size": 53321,
+  "fonts": [
+    {
+      "name": "Lohit Devanagari",
+      "style": "normal",
+      "weight": 400,
+      "filename": "LohitDevanagari-Regular.ttf",
+      "postScriptName": "Lohit-Devanagari",
+      "fullName": "Lohit Devanagari",
+      "copyright": "Copyright 2011-12 Lohit Fonts Project contributors.\n<http://fedorahosted.org/lohit>\nOpen type tables written by:\nPravin Satpute <psatpute AT redhat DOT com>\nSneha Kore <skore At redhat DOT com>\n\n   Licensed under the SIL Open Font License 1.1 (see file OFL.txt)"
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2014-10-06"
+}

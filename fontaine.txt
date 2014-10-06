@@ -1,0 +1,38 @@
+Fonts
+  Font:
+    Common name: Lohit Devanagari
+    Sub family: Regular
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright 2011-12 Lohit Fonts Project contributors.
+    License: OFL 1.1
+    License url: http://scripts.sil.org/OFL
+    Version: 2.94.0
+    Glyph count: 423
+    Character count: 232
+    Orthographies:
+        Orthography:
+          Common name: Subset latin
+          Support level: fragmentary
+          Percent coverage: 24
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset devanagari
+          Support level: fragmentary
+          Percent coverage: 74
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: fragmentary
+          Percent coverage: 30
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
